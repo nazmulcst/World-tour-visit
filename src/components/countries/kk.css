@@ -1,0 +1,11 @@
+.visited{
+       background-color: darkcyan;
+}
+.color{
+       border: 2px solid red;
+              margin:15px;
+              padding:5px;
+}
+.non-visited{
+       background-color: lightgreen;
+}

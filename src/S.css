@@ -1,0 +1,9 @@
+.container {
+       display: grid;
+       grid-template-columns: repeat(3, 1fr);
+       border-radius: 20px;
+}
+.btn{
+       background-color: red;
+       color: wheat;
+}
